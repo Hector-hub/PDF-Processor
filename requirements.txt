@@ -1,0 +1,6 @@
+agentic-doc
+python-dotenv
+pydantic
+mistralai
+requests
+urllib3
